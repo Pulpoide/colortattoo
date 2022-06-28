@@ -18,5 +18,10 @@
 
 .nombre {
     color: white;
-    font-family: serif;
+    font-family: system-ui;
+    margin-left: auto;
 }
+
+/* .html {
+    background-color: black;
+} */

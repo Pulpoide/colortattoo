@@ -10,6 +10,11 @@ function App() {
       <Bar/>
     {<img src={img_logo} className="img-fluid"/>}
       <ImgGalery/>
+      <>
+      <div className='container-fluid' style={{backgroundColor:'back', height:'80px'}}>
+        
+      </div>
+      </>
     </div>
   )
 }

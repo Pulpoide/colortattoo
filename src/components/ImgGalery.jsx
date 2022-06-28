@@ -5,20 +5,18 @@ function ImgGalery() {
         <div id="carousel" className="carousel slide carousel-fade" data-bs-ride="carousel">
       
       <div className="carousel-inner">
-        <div className="carousel-item active">
-          <img src="src\imgs\C4.jpg" className="d-block w-100" alt="..." />
-        </div>
+       
         <div className="carousel-item">
           <img src="src\imgs\C16.jpg" className="d-block w-100" alt="..."/>
         </div>
         <div className="carousel-item">
           <img src="src\imgs\C18.jpg" className="d-block w-100" alt="..."/>
         </div>
-        <div className="carousel-item">
-          <img src="src\imgs\C22.jpg" className="d-block w-100" alt="..."/>
+        <div className="carousel-item active">
+          <img src="src\imgs\C23.jpg" className="d-block w-100" alt="..."/>
         </div>
         <div className="carousel-item">
-          <img src="src\imgs\C23.jpg" className="d-block w-100" alt="..."/>
+          <img src="src\imgs\C22.jpg" className="d-block w-100" alt="..."/>
         </div>
         <div className="carousel-item">
           <img src="src\imgs\C26.jpg" className="d-block w-100" alt="..."/>
