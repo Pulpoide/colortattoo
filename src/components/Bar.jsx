@@ -1,10 +1,10 @@
-
+import sello_ct from '../imgs/sello_ct.jpg';
 function Bar() {
 return(
     <nav className="navbar fixed-top navbar-dark bg-dark">
   <div className="container" style={{marginTop:'2.5px'}}>
     <a className="navbar-brand" href="#">
-      <img src="src\imgs\sello_ct.jpg" alt="" width="55" height="55"/>
+      <img src={sello_ct} alt="" width="55" height="55"/>
         {/* <img src="src\imgs\Logo_apaizado.jpg" alt="" height="55" width="125"/> */}
     </a>
     <h4 className="nombre">Lucas Abrego</h4>
