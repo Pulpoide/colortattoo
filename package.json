@@ -1,8 +1,8 @@
 {
-  "homepage": "http://Pulpoide.github.io/colortattoo/",
   "name": "colortattoo",
   "private": true,
   "version": "0.0.0",
+  "homepage": "http://pulpoide.github.io/colortattoo",
   "type":"module"
   "scripts": {
     "dev": "vite",
