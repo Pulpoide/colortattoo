@@ -22,6 +22,6 @@
     margin-left: auto;
 }
 
-/* .html {
-    background-color: black;
-} */
+html, body, #app, #app>div {
+  height: 100%
+}
